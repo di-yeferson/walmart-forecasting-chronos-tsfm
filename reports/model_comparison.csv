@@ -1,0 +1,8 @@
+modelo,mae_usd,rmse_usd,mape_pct,wape_pct,tiempo_s,entrena
+Ensamble Chronos + XGBoost,39417.93,59137.20,3.84,3.84,0.97,Si (solo XGBoost)
+Prophet,40579.08,59058.82,4.23,3.95,9.53,Si (45 modelos)
+XGBoost (global),43265.29,68316.66,4.27,4.21,0.51,Si (1 modelo)
+Chronos-Bolt (Zero-Shot),47299.69,69108.89,4.49,4.61,0.46,No
+Naive estacional,53768.95,85365.67,5.46,5.24,0.00,No
+Naive,59239.97,85346.23,6.01,5.77,0.00,No
+Auto-ARIMA,61385.14,90751.13,5.97,5.98,131.75,Si (45 modelos)

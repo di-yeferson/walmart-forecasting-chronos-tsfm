@@ -1,0 +1,15 @@
+chronos-forecasting
+torch
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+pmdarima
+prophet
+xgboost
+kagglehub
+fastapi
+pydantic

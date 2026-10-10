@@ -1,0 +1,12 @@
+# Datos y salidas generadas
+Walmart.csv
+forecast_walmart_12_semanas.csv
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# Sistema
+.DS_Store
+Thumbs.db
