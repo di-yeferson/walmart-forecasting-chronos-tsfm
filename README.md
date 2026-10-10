@@ -61,6 +61,4 @@ Python · PySpark · Pandas · PyTorch · Hugging Face (Chronos) · XGBoost · P
 2. El notebook instala las dependencias y descarga los datos automáticamente con `kagglehub`.
 3. Para correrlo en local, instala las dependencias con `pip install -r requirements.txt`.
 
----
-**Diego Yeferson Quispe Huamani** · Estudiante de Big Data y Ciencia de Datos – Tecsup
-[LinkedIn](https://www.linkedin.com/in/di-yeferson) · [GitHub](https://github.com/di-yeferson)
+
